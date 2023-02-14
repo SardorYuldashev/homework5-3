@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Shum bola",
+    "author": "G'ofur G'ulom",
+    "price": "355000"
+  },
+  {
+    "id": 2,
+    "title": "O'tgan kunlar",
+    "author": "Abdulla Qodiriy",
+    "price": "270000"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "Djordj Oruel",
+    "price": "520000"
+  },
+  {
+    "id": 4,
+    "title": "Sherlok Xolms",
+    "author": "Artur Konan Doyl",
+    "price": "406000"
+  }
+]
